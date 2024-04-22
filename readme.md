@@ -18,10 +18,6 @@ Consider the following diagram to understand how the different chains and compon
 
 ![Chatbot Architecture](./docs/mysql-chains.png)
 
-For a more detailed explanation and a step-by-step guide, refer this other video: [YouTube video tutorial](https://youtu.be/9ccl1_Wu24Q).
-
-For a more detailed explanation and a step-by-step guide, refer to the [YouTube video tutorial](Chat with MySQL Database with Python | LangChain Tutorial).
-
 ## Installation
 Ensure you have Python installed on your machine. Then clone this repository:
 
